@@ -1,0 +1,8 @@
+2026-11-12 18:15:11,668 [INFO] === STARTING REPRODUCIBLE NYC TAXI PIPELINE (H1 2024) ===
+2026-11-12 18:15:11,669 [INFO] --- Processing YELLOW for 2024-01 ---
+2026-11-12 18:15:11,669 [INFO] [INGEST DOWNLOAD] Downloading from https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-01.parquet...
+2026-11-12 18:15:36,111 [INFO] [INGEST SUCCESS] Saved to C:\Users\Asus\nyc-taxi-pipeline\data\raw\yellow_tripdata_2024-01.parquet
+2026-11-12 18:15:37,824 [INFO] [QUALITY GATE - PASSED] yellow (M01): Validated 2,964,606 records.
+2026-11-12 18:15:39,108 [INFO] [CURATED EXPORT] Saved to C:\Users\Asus\nyc-taxi-pipeline\data\curated\curated_yellow_2024_01.parquet
+2026-11-12 18:15:39,108 [INFO] --- Processing YELLOW for 2024-02 ---
+2026-11-12 18:15:39,109 [INFO] [INGEST DOWNLOAD] Downloading from https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-02.parquet...
